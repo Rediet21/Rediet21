@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi I am Rediet from Ethiopia, i am currently working on AI projects and developing my skills to build an outsanding Generative AI projects
+Hi I am Rediet from Ethiopia, i am currently working on AI projects and developing my skills to build an outsanding Generative AI Platforms
 
 
 - 🔭 I’m currently working on AI Engineering
